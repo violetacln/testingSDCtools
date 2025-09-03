@@ -1,3 +1,4 @@
 # testingSDCtools
 This repository is dedicated to the application of the SDC methods implemented in the R-packages included in [SDC-tools](https://github.com/sdcTools) to two types of census data of high resolution: small geospatial areas and grid-cell areas.
 A [Working Paper](http://hagstofan.s3.amazonaws.com/media/public/2020/e9ea7160-5032-4580-9297-7b3b3cb634da.pdf) has been published based on results for the Icelandic small output areas data. 
+A [paper](https://indico.un.org/event/1016405/contributions/573/attachments/22980/65316/SDC2025_Sf_Iceland_Calian_rev.pdf) describing new SDC experiments at SI, based on Bayesian and deep learning methods for risk estimation and limitation was presented at the [2025 UNECE meeting](https://indico.un.org/event/1016405/) on Statistical Confidentiality.
